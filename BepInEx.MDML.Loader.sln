@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BepInEx.MDML.Loader", "BepInEx.MDML.Loader\BepInEx.MDML.Loader.csproj", "{C09BCC1B-A2BD-4547-88E4-E1FBAC41FB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModHelper", "ModHelper\ModHelper.csproj", "{D652D574-C138-4F42-92BD-F42D3D48404A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C09BCC1B-A2BD-4547-88E4-E1FBAC41FB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09BCC1B-A2BD-4547-88E4-E1FBAC41FB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09BCC1B-A2BD-4547-88E4-E1FBAC41FB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09BCC1B-A2BD-4547-88E4-E1FBAC41FB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D652D574-C138-4F42-92BD-F42D3D48404A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D652D574-C138-4F42-92BD-F42D3D48404A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D652D574-C138-4F42-92BD-F42D3D48404A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D652D574-C138-4F42-92BD-F42D3D48404A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3C8238F-E094-4C72-B7F1-6D4C50BB58FA}
+	EndGlobalSection
+EndGlobal
